@@ -1,1 +1,15 @@
 # CS-305-M8-Journal-Submission
+Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
+Artemis Financial, is a consulting company that develops individualized financial plans for their customers. The financial plans include savings, retirement, investments, and insurance.
+Artemis Financial wants to modernize their operations. As a crucial part of the success of their custom software, they also want to use the most current and effective software security. Artemis Financial has a RESTful web application programming interface (API). They are seeking Global Rain’s expertise about how to protect the organization from external threats.(copy and paste from project 1 requirements>scenario)
+
+What did you do very well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
+What part of the vulnerability assessment was challenging or helpful to you?
+I believe I did well in catching/documenting vulnerabilties which I found in the code itself and based off of the application describing ways to mitigate the vulnerabilities, such as updating out of date dependencies. Coding securely is important in order to protect sensitive information, avoiding potential financial set backs and having to rework "finished code", and making sure that any possible updates in the future will be easy enough to implement without causing issues.  The companies overall well-being will greatly improve by having proper software security as clients will trust the company as a company that is capable of handling their sensitive information without worrying about leaks and other issues. The part that was difficult for me was in the coding portion itself making sure that Maven was properly set up, that all the code responded the way it needed to with the rest of the program.  As far as in the report itself I would have to say that figuring out the vulnerability types gave me the trouble and took some time to figure out.
+How did you increase layers of security? In the future, what would you use to assess vulnerabilities and decide which mitigation techniques to use?
+I ran descrepency reports and based off the reports I would update dependencies, and make sure no false positives were showing up.  As far as the coding itself I used practices which I learned to be secure/professional from the coursework I have taken so far. 
+
+What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
+paying close attention to announcements/class resources/that one guy on youtube(yes you know the one)/going back over past material and putting everything together.  
+Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
+I would show the employer my ability to find and snuff out descrepencies in a program through the use of mitigation tactics I learned in this class. 
